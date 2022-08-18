@@ -8,6 +8,7 @@ CHANGE
 
 
 branch test
+<<<<<<< HEAD
 
 branch 2
 
